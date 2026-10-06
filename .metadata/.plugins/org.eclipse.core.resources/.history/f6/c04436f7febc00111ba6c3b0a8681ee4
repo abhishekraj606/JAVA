@@ -1,0 +1,16 @@
+package com.kodewala.loops1;
+
+public class Driver1
+{
+    public static void main(String[] args)
+    {
+        Employee employee = new Employee();
+
+        employee.empName = "Abhishek Raj";
+        employee.empSalary = 60000;
+        employee.empId = "AB40105465";
+        employee.yearsOfExp = 3;
+
+        employee.displayDetails();
+    }
+}

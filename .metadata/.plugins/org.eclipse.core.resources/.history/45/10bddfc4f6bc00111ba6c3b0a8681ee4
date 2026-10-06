@@ -1,0 +1,24 @@
+package com.kodewala.arrays1;
+
+public class UserArray
+{
+
+	public static void main(String[] args)
+	{
+		User users[] = new User[5];
+		
+		users[0] = new User("Abhishek");
+		users[1] = new User("Rahul");
+		users[2] = new User("Priya");
+		users[3] = new User("Amit");
+		users[4] = new User("Neha");	
+		
+		System.out.println(users[0].name);
+		System.out.println(users[1].name);
+		System.out.println(users[2].name);
+		System.out.println(users[3].name);
+		System.out.println(users[4].name);
+
+	}
+
+}

@@ -1,0 +1,18 @@
+package com.kodewala.constructors1;
+
+public class Product {
+
+	public static void main(String[] args) {
+		
+		Ecommerce ecc = new Ecommerce("Samsung S26 Ultra", 155000, "Falgship Device", 850); //Calling Constructor
+		
+		System.out.println(ecc.productName + "," + ecc.price + "," + ecc.description + "," + ecc.quantity);
+		
+		Ecommerce ecc1 = new Ecommerce(); // Ecommerce("IPhone 16 Pro max" , 160000, "Good Camera", 800)
+		
+		System.out.println(ecc1.productName + "," + ecc1.price + "," + ecc1.description + "," + ecc1.quantity);
+		
+		
+	}
+
+}

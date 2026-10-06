@@ -1,0 +1,12 @@
+package com.kodewala.loops1;
+
+public class CustomerArray
+{
+
+	public static void main(String[] args)
+	{
+		// TODO Auto-generated method stub
+
+	}
+
+}
