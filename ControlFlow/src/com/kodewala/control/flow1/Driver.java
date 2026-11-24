@@ -7,7 +7,7 @@ public class Driver
 	{
 		TripPlanner planner = new TripPlanner();
 		String response = planner.suggestPlan("BLR", "GOA", 2000);
-		
+		System.out.println("Suggested Plan: " + response);
 
 	}
 

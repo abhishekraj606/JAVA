@@ -12,6 +12,7 @@ public class AccountOverloading
 		AccountOverloading account = new AccountOverloading();
 		AccountOverloading account1 = new AccountOverloading("Abhishek");
 		AccountOverloading account2 = new AccountOverloading("Abhishek", 5000);
+		System.out.println(account + " " + account1 + " " + account2);
 	}
 	
 	AccountOverloading()

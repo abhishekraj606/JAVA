@@ -15,6 +15,8 @@ public class AgeEligibilityScanner {
 		boolean message = (age >= 18);
 		
 		System.out.println("Eligible: " + message);
+		
+		scanner.close();
 
 	}
 

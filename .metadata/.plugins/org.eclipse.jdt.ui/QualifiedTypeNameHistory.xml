@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.kodewala.oops.inheritance2.ElectronicProduct"/>
+    <fullyQualifiedTypeName name="com.kodewala.oops.inheritance4.EmailNotification"/>
+    <fullyQualifiedTypeName name="com.kodewala.oops.inheritance4.SMSNotification"/>
+    <fullyQualifiedTypeName name="com.kodewala.oops.inheritance4.PushNotification"/>
+    <fullyQualifiedTypeName name="java.nio.file.attribute.UserDefinedFileAttributeView"/>
+    <fullyQualifiedTypeName name="com.kodewala.hotstar.user.User"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="com.tcs.emp.Address"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
 </qualifiedTypeNameHistroy>

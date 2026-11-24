@@ -17,6 +17,8 @@ public class EvenNumberScanner
 		
 		System.out.println("Number: " + number);
 		System.out.println("Even: " + result);
+		
+		scanner.close();
 	}
 	
 	static boolean isEven(int number)

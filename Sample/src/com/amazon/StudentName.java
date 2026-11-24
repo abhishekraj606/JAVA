@@ -14,6 +14,8 @@ public class StudentName {
 	   String name = scanner.nextLine();
 		
 	   System.out.println("Hello!!! How are you, " + name);
+		
+	   scanner.close();
 
 	}
 

@@ -15,6 +15,8 @@ public class StudentMarks {
 		boolean message = (marks >= 40);
 		
 		System.out.println("Passed: " + message);
+		
+		scanner.close();
 
 	}
 

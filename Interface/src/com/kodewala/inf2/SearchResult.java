@@ -1,0 +1,6 @@
+package com.kodewala.inf2;
+
+public class SearchResult
+{
+
+}
